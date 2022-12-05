@@ -10,5 +10,5 @@ Video on APMonitor
 </div>
 Symposium Presentation
 <div align="center">
-  <a href="https://youtu.be/W4BWtRINn-g?t=1117"><img src="https://img.youtube.com/vi/W4BWtRINn-g?/0.jpg" alt="YT Video"></a>
+  <a href="https://youtu.be/W4BWtRINn-g?t=1117"><img src="https://img.youtube.com/vi/W4BWtRINn/0.jpg" alt="YT Video"></a>
 </div>
