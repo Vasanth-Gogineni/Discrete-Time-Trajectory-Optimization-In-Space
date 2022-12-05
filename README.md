@@ -1,4 +1,4 @@
-# Discrete-Time-Trajectory-Optimization-In-Spac
+# Discrete-Time-Trajectory-Optimization-In-Space
 
 This research project uses the GEKKO Python package to extend the APMonitor Modeling Language. View the YouTube video below(in README.md) for an explanation of the code and an example of a test run. This video is uploaded on the APMonitor YouTube channel.
 
