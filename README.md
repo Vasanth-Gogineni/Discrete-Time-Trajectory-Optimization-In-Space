@@ -1,5 +1,6 @@
 # Discrete-Time-Trajectory-Optimization-In-Space
 
+The research paper below provides comprehensive documentation for the development, testing, and use cases of the algorithm.
 Research Paper Link: 
 
 https://github.com/Vasanth-Gogineni/Discrete-Time-Trajectory-Optimization-In-Space/blob/3217a007c53e1ee958e92fbd09abef28b02fa103/Vasanth%20Gogineni%20Satellite%20Trajectory%20Optimization%20Research%20Paper%20Final.pdf
