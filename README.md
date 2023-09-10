@@ -13,7 +13,7 @@ There are also 2 symposium presentations of the same project. For a more general
 
 Code for an example of the optimization problem described in the research paper is in optimization_problem_example.py
 
-Code for the simulation used to verify and test the physics is in orbital_simulation.py
+Code for the simulation used to verify and test the physics is in orbital_mechanics_simulation.py
 
 Video on APMonitor
 <div align="center">
