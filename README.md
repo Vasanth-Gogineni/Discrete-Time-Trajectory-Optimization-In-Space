@@ -19,3 +19,6 @@ Symposium Presentation
 <div align="center">
   <a href="https://www.youtube.com/watch?v=W4BWtRINn-g&t=1117s"><img src="https://img.youtube.com/vi/W4BWtRINn-g/0.jpg" alt="YT Video"></a>
 </div>
+
+Code for an example of the optimization problem described in the research paper is in optimization_problem_example.py
+Code for the simulation used to verify and test the physics is in orbital_simulation.py
