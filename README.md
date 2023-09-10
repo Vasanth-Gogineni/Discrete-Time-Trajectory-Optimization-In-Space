@@ -12,6 +12,7 @@ This research project uses the GEKKO Python package to extend the APMonitor Mode
 There are also 2 symposium presentations of the same project. For a more general view of the applications and the physics behind this algorithm, please visit the symposium video. To view a description of the code and samples of live testing, please watch the APMonitor YouTube video.
 
 Code for an example of the optimization problem described in the research paper is in optimization_problem_example.py
+
 Code for the simulation used to verify and test the physics is in orbital_simulation.py
 
 Video on APMonitor
