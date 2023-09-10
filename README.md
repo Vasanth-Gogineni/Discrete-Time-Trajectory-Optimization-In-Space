@@ -9,7 +9,7 @@ https://github.com/Vasanth-Gogineni/Discrete-Time-Trajectory-Optimization-In-Spa
 
 This research project uses the GEKKO Python package to extend the APMonitor Modeling Language. View the YouTube video below(in README.md) for an explanation of the code and an example of a test run. This video is uploaded on the APMonitor YouTube channel.
 
-There are also 2 symposium presentations of the same project. For a more general view of the applications and the physics behind this algorithm, please visit the symposium video.
+There are also 2 symposium presentations of the same project. For a more general view of the applications and the physics behind this algorithm, please visit the symposium video. To view a description of the code and samples of live testing, please watch the APMonitor YouTube video.
 
 Video on APMonitor
 <div align="center">
